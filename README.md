@@ -1,7 +1,7 @@
 # TCC-1
 Repositorio para material do TCC-1
 
--------------- Trabalhos Relacionados -------------------------------
+## Trabalhos Relacionados e Materiais Relevantes 
 * Paper [Learning Levels of Mario AI using GeneticAlgorithms](https://www.researchgate.net/publication/299778811_Learning_Levels_of_Mario_AI_Using_Genetic_Algorithms)
 * Video [Machine Learning for Flappy Bird using Neural Network & Genetic Algorithm](https://www.youtube.com/watch?v=aeWmdojEJf0)
 * Site [NEURAL NETWORKS AND MARI/O](https://hackaday.com/2015/06/14/neural-networks-and-mario/)
