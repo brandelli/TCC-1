@@ -9,9 +9,6 @@ Repositorio para material do TCC-1
 * Git [Machine-Learning-Flappy-Bird](https://github.com/ssusnic/Machine-Learning-Flappy-Bird)
 * Artigo [Designing AI: Solving Snake with Evolution](https://becominghuman.ai/designing-ai-solving-snake-with-evolution-f3dd6a9da867)
 * Artigo [Evolutionary algorithm outperforms deep-learning machines at video games](https://www.technologyreview.com/s/611568/evolutionary-algorithm-outperforms-deep-learning-machines-at-video-games/)
-
-
-
 * Paper [TEACHING COMPUTER TO PLAY GAMES
 USING
  ARTIFICIAL NEURAL NETWORK AND GENETIC ALGORITHM
@@ -21,3 +18,5 @@ USING
 and Neural Networks:
  The Encoding Problem
 ](http://homepages.inf.ed.ac.uk/pkoehn/publications/gann94.pdf)
+* Canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
+* Canal [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
