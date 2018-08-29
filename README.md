@@ -20,7 +20,8 @@ and Neural Networks:
 ](http://homepages.inf.ed.ac.uk/pkoehn/publications/gann94.pdf)
 * Canal [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)
 * Canal [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
-* [Site](https://miorsoft.github.io/Site/index.html)
+* Site [Miorsoft](https://miorsoft.github.io/Site/index.html)
+* Artigo [Machine learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
