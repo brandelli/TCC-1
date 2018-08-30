@@ -22,6 +22,7 @@ and Neural Networks:
 * Canal [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q)
 * Site [Miorsoft](https://miorsoft.github.io/Site/index.html)
 * Artigo [Machine learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* Artigo [Lets evolve a neural network with a genetic algorithm](https://blog.coast.ai/lets-evolve-a-neural-network-with-a-genetic-algorithm-code-included-8809bece164)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
