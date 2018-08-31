@@ -26,7 +26,13 @@ and Neural Networks:
 * Site [The mario ai competition](https://aiandgames.com/the-mario-ai-competition/)
 * Paper [Um Algoritmo Genético com Aprendizado por Reforço
 Simples aplicado ao problema do Mundo de Grid ](http://rica.ele.puc-rio.br/media/Revista_rica_n8_a7.pdf)
-* Aula (NEURAL NETWORKS AND REINFORCEMENT LEARNING)[http://web.mst.edu/~gosavia/neural_networks_RL.pdf]
+* Aula [NEURAL NETWORKS AND REINFORCEMENT LEARNING](http://web.mst.edu/~gosavia/neural_networks_RL.pdf)
+* Site [artificial inteligence](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/deep_reinforcement_learning.html)
+* Paper [Efficient Reinforcement Learning through Evolving Neural Network Topologies](http://nn.cs.utexas.edu/downloads/papers/stanley.gecco02_1.pdf)
+* Paper [Apprentissage par renforcement utilisant des r´eseaux de
+neurones, avec des applications au contrˆole moteur
+](https://www.remi-coulom.fr/Publications/Thesis.pdf)
+
 
 
 ## Materiais Úteis
