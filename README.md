@@ -26,6 +26,7 @@ and Neural Networks:
 * Site [The mario ai competition](https://aiandgames.com/the-mario-ai-competition/)
 * Paper [Um Algoritmo Genético com Aprendizado por Reforço
 Simples aplicado ao problema do Mundo de Grid ](http://rica.ele.puc-rio.br/media/Revista_rica_n8_a7.pdf)
+* Aula (NEURAL NETWORKS AND REINFORCEMENT LEARNING)[http://web.mst.edu/~gosavia/neural_networks_RL.pdf]
 
 
 ## Materiais Úteis
