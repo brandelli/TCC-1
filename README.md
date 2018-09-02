@@ -34,7 +34,9 @@ neurones, avec des applications au contrˆole moteur
 ](https://www.remi-coulom.fr/Publications/Thesis.pdf)
 * Site [Reinforcement Learning Pong Player](https://www.cs.colostate.edu/~andrescj/proj/rl_pong/)
 * Paper [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf)
-
+* Book [Reinforcement Learning: An Introduction](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view)
+* Book [Reinforcement Learning
+State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
 
 
 ## Materiais Úteis
