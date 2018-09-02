@@ -33,6 +33,7 @@ Simples aplicado ao problema do Mundo de Grid ](http://rica.ele.puc-rio.br/media
 neurones, avec des applications au contrˆole moteur
 ](https://www.remi-coulom.fr/Publications/Thesis.pdf)
 * Site [Reinforcement Learning Pong Player](https://www.cs.colostate.edu/~andrescj/proj/rl_pong/)
+* Paper [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf)
 
 
 
