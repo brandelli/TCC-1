@@ -37,6 +37,7 @@ neurones, avec des applications au contrˆole moteur
 * Book [Reinforcement Learning: An Introduction](https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view)
 * Book [Reinforcement Learning
 State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
+* Medium [Introduction to Various Reinforcement Learning Algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 
 
 ## Materiais Úteis
