@@ -40,6 +40,7 @@ State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
 * Medium [Introduction to Various Reinforcement Learning Algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * Site [AI WIKI](https://skymind.ai/wiki/deep-reinforcement-learning)
 * Book [Introduction to Machine Learning](https://kkpatel7.files.wordpress.com/2015/04/alppaydin_machinelearning_2010.pdf)
+* Medium [beat atari with deep reinforcement learning](https://becominghuman.ai/beat-atari-with-deep-reinforcement-learning-part-2-dqn-improvements-d3563f665a2c)
 
 
 ## Materiais Úteis
