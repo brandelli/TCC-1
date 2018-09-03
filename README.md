@@ -39,6 +39,7 @@ neurones, avec des applications au contrˆole moteur
 State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
 * Medium [Introduction to Various Reinforcement Learning Algorithms](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * Site (AI WIKI)[https://skymind.ai/wiki/deep-reinforcement-learning]
+* Book (Introduction to Machine Learning)[https://kkpatel7.files.wordpress.com/2015/04/alppaydin_machinelearning_2010.pdf]
 
 
 ## Materiais Úteis
