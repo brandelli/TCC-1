@@ -44,6 +44,13 @@ State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
 * Site [teaching-ai-play-simple-game-using-q-learning](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/)
 * Book [Artificial Intelligence - a modern approach 3rd edition](http://repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf)
 * Book [Artificial Intelligence - a modern approach ? edition - better figures](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
+* Book [A Brief Introduction to
+Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
+* Book [An introduction to neural networks](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)
+* Book [Neural Networks and Learning Machines](http://dai.fmph.uniba.sk/courses/NN/haykin.neural-networks.3ed.2009.pdf)
+* Book [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf)
+* Slide [Neural Networks and Introduction to Deep Learning](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-hdstat-rnn-deep-learning.pdf)
+* Slide [An Introduction to Neural Networks](http://www2.econ.iastate.edu/tesfatsi/NeuralNetworks.CheungCannonNotes.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
