@@ -42,7 +42,8 @@ State-of-the-Art](https://link.springer.com/book/10.1007%2F978-3-642-27645-3)
 * Book [Introduction to Machine Learning](https://kkpatel7.files.wordpress.com/2015/04/alppaydin_machinelearning_2010.pdf)
 * Medium [beat atari with deep reinforcement learning](https://becominghuman.ai/beat-atari-with-deep-reinforcement-learning-part-2-dqn-improvements-d3563f665a2c)
 * Site [teaching-ai-play-simple-game-using-q-learning](https://www.practicalai.io/teaching-ai-play-simple-game-using-q-learning/)
-
+* Book [Artificial Intelligence - a modern approach 3rd edition](http://repository.unimal.ac.id/1022/1/Artificial%20Intelligence%20-%20A%20Modern%20Approach%203rd%20Ed%20-%20Stuart%20Russell%20and%20Peter%20Norvig%2C%20Berkeley%20%282010%29.pdf)
+* Book [Artificial Intelligence - a modern approach ? edition - better figures](https://www.cin.ufpe.br/~tfl2/artificial-intelligence-modern-approach.9780131038059.25368.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
