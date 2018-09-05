@@ -51,6 +51,7 @@ Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-
 * Book [Neural Network Design](http://hagan.okstate.edu/NNDesign.pdf)
 * Slide [Neural Networks and Introduction to Deep Learning](https://www.math.univ-toulouse.fr/~besse/Wikistat/pdf/st-m-hdstat-rnn-deep-learning.pdf)
 * Slide [An Introduction to Neural Networks](http://www2.econ.iastate.edu/tesfatsi/NeuralNetworks.CheungCannonNotes.pdf)
+* Book [An Introduction to Genetic Algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
