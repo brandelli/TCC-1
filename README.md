@@ -55,6 +55,7 @@ Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-
 * Paper [Genetic Algorithm](Genetic-Algorithm-Guide-Tom-Mathew.pdf)
 * Paper [Reinforcement Learning to Play Mario](http://cs229.stanford.edu/proj2012/LiaoYiYang-RLtoPlayMario.pdf)
 * Paper [The Mario AI Championship](https://aaai.org/ojs/index.php/aimagazine/article/view/2492/2379)
+* Git [MarioAI](https://github.com/GentlemenClub/MarioAI)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
