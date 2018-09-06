@@ -53,6 +53,7 @@ Neural Networks](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-
 * Slide [An Introduction to Neural Networks](http://www2.econ.iastate.edu/tesfatsi/NeuralNetworks.CheungCannonNotes.pdf)
 * Book [An Introduction to Genetic Algorithms](http://www.boente.eti.br/fuzzy/ebook-fuzzy-mitchell.pdf)
 * Paper [Genetic Algorithm](Genetic-Algorithm-Guide-Tom-Mathew.pdf)
+* Paper [](http://cs229.stanford.edu/proj2012/LiaoYiYang-RLtoPlayMario.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
