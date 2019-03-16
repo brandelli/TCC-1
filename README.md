@@ -28,6 +28,8 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 
 * Artigo [Introduction to NLP](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 
+* Exemplo de Proposta [HELPVAN](https://drive.google.com/file/d/1MsjNGsmKwc9JCs3PpIUqKrKV1OlN5IAc/view?ts=5b84a648)
+
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
 * [Formatar README](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
