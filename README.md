@@ -2,7 +2,7 @@
 Repositorio para material do TCC-1
 
 ## Proposta TCC
-* Link [Overleaf](https://www.overleaf.com/read/gptjqxqwstsq)
+* Link [Overleaf](https://www.overleaf.com/read/xymdzscpsrms)
 
 ## Trabalhos Relacionados e Materiais Relevantes 
 * Livro [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
