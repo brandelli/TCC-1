@@ -11,6 +11,10 @@ Repositorio para material do TCC-1
 * Artigo [Introduction to the CoNLL-2003 Shared Task:
 Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.pdf)
 
+* Artigo [Kernel Methods for Relation Extraction](http://www.jmlr.org/papers/v3/zelenko03a.html)
+
+* Slides [A SURVEY ON RELATION EXTRACTION](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)
+
 * Site [Top 10 Books on NLP and Text Analysis](https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49)
 
 * Artigo [NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
