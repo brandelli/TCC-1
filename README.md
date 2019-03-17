@@ -16,6 +16,10 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 
 * Artigo [Kernel Methods for Relation Extraction](http://www.jmlr.org/papers/v3/zelenko03a.html)
 
+* Artigo [Natural Language Processing for Information Extraction](https://arxiv.org/pdf/1807.02383.pdf)
+
+* Artigo [A Survey on Open Information Extraction](http://aclweb.org/anthology/C18-1326)
+
 * Slides [A SURVEY ON RELATION EXTRACTION](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)
 
 * Site [Top 10 Books on NLP and Text Analysis](https://medium.com/sciforce/top-10-books-on-nlp-and-text-analysis-8393a9fd3f49)
