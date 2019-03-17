@@ -30,6 +30,8 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 
 * Exemplo de Proposta [HELPVAN](https://drive.google.com/file/d/1MsjNGsmKwc9JCs3PpIUqKrKV1OlN5IAc/view?ts=5b84a648)
 
+* Exemplo de Proposta [Ariel](https://drive.google.com/file/d/18ZDKoENar_ezHumi2G0L2AiPEcER-bxL/view?usp=sharing)
+
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
 * [Formatar README](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
