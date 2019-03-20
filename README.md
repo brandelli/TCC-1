@@ -22,6 +22,8 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 
 * Artigo [Semantically-Enhanced Information Extraction
  ](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1188&context=csse_fac)
+ 
+ * Artigo [Avaliação de sistemas de extração de relações para a língua Portuguesa pt-BR](https://www.academia.edu/36530548/Avalia%C3%A7%C3%A3o_de_sistemas_de_extra%C3%A7%C3%A3o_de_rela%C3%A7%C3%B5es_para_a_l%C3%ADngua_Portuguesa_pt-BR_Evaluation_of_Relation_Extraction_Systems_for_portuguese_language_pt-BR?fbclid=IwAR2Rgb-XsTzqP0yMks4g0qGdBZX4Jtf2omTvZLv2wh3cOmrQu3K0ljtnMAA)
 
 * Slides [A SURVEY ON RELATION EXTRACTION](http://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction-Slides.pdf)
 
