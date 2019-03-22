@@ -9,6 +9,8 @@ Repositorio para material do TCC-1
 
 * Site [IBERLEF 2019 PORTUGUESE NAMED ENTITY RECOGNITION AND RELATION EXTRACTION TASKS](http://www.inf.pucrs.br/linatural/wordpress/iberlef-2019/)
 
+* Artigo [A review on Relation Extraction with an eye on Portuguese](http://repositorio.pucrs.br/dspace/bitstream/10923/14047/2/A_review_on_Relation_Extraction_with_an_eye_on_Portuguese.pdf)
+
 * Artigo [A survey of named entity recognition and classification](https://cswww.essex.ac.uk/staff/poesio/Teach/807/Readings/nadeau_sekine_2007.pdf)
 
 * Artigo [Introduction to the CoNLL-2003 Shared Task:
