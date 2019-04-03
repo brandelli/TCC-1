@@ -13,7 +13,7 @@ Repositorio para material do TCC-1
 
 * Artigo [A survey of named entity recognition and classification](https://cswww.essex.ac.uk/staff/poesio/Teach/807/Readings/nadeau_sekine_2007.pdf)
 
-* Artigo [Trabalhos relacionados a IE em português] (https://drive.google.com/drive/folders/1fNbxXoSmBOR3FzTHu8miFAjenWK7f7mZ)
+* Artigo [Trabalhos relacionados a IE em português](https://drive.google.com/drive/folders/1fNbxXoSmBOR3FzTHu8miFAjenWK7f7mZ)
 
 * Artigo [Introduction to the CoNLL-2003 Shared Task:
 Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.pdf)
