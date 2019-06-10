@@ -1,0 +1,20 @@
+1. Complexidade/importância/relevância do tema como Proposta de Trabalho de Conclusão (PTC)
+Trabalho dentro dos padrões para uma PTC do curso de Ciência da Computação
+
+2. Apresentação de trabalhos relacionados/fundamentação teórica
+Apresenta análise de outros trabalhos, porém superficialmente
+
+3. Organização do trabalho como projeto de Trabalho de Conclusão
+Escopo e prazos suficientemente definidos e coerentes
+
+4. Qualidade do texto apresentado
+Texto suficientemente claro
+
+Parecer:
+O tema do trabalho é relevante e adequado para um trabalho de conclusão.
+No entanto, acredito que a seção de trabalhos relacionados na verdade descreve ferramentas.
+Embora o aluno vá prototipar uma ferramenta para REN e ER, a seção não descreve como as entidades e seus relacionamentos são identificados,
+ou seja, que técnicas são normalmente utilizadas com essa finalidade.
+Além disso, como os resultados serão avaliados ? Será usado algum corpus específico ? Sugiro esclarecer esses detalhes no texto do TC I, bem como aprofundar as seções de fundamentação que ficaram rasas. Faltam exemplos. O exemplos ajudam a entender o que é REN e que tipo de relacionamentos serão extraídos. Melhorar a seção de trabalhos relacionados também.
+Explicar se o trabalho consiste em combinar ferramentas ou se a extração será feita por meio de uma técnica.
+No primeiro caso, justificar e explicitar as vantagens. No segundo caso, explicar a técnica e justificar a escolha.
