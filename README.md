@@ -47,6 +47,14 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 * Exemplo de Proposta [HELPVAN](https://drive.google.com/file/d/1MsjNGsmKwc9JCs3PpIUqKrKV1OlN5IAc/view?ts=5b84a648)
 
 * Exemplo de Proposta [Ariel](https://drive.google.com/file/d/18ZDKoENar_ezHumi2G0L2AiPEcER-bxL/view?usp=sharing)
+################################################################################################################
+* Artigo [Neural Relation Extraction with Selective Attention over Instances](https://www.aclweb.org/anthology/P16-1200)
+* Artigo [Adversarial Training for Relation Extraction](https://www.aclweb.org/anthology/D17-1187)
+* Artigo [A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction](https://aclweb.org/anthology/D17-1189)
+* Artigo [Relation Extraction : A Survey](https://arxiv.org/pdf/1712.05191.pdf)
+
+* Github [OpenNRE](https://github.com/thunlp/OpenNRE)
+* Github [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
