@@ -5,7 +5,7 @@ Repositorio para material do TCC-1
 * Link [Overleaf](https://www.overleaf.com/read/xymdzscpsrms)
 
 ## Documento final TCC
-* link [Overleaf](https://www.overleaf.com/read/pjzzypvtskxc)
+* Link [Overleaf](https://pt.overleaf.com/project/5d0bb70de0ce6177f9118053)
 
 ## Trabalhos Relacionados e Materiais Relevantes 
 * Livro [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
