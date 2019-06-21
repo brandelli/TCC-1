@@ -56,6 +56,7 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 
 ## Fontes
 * Link [Python Doc](https://docs.python.org/3/faq/general.html#what-is-python)
+* Livro [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X/ref=dp_ob_image_bk)
 * Github [OpenNRE](https://github.com/thunlp/OpenNRE)
 * Github [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
 
