@@ -5,3 +5,9 @@ Além disso ela vem com uma vasta biblioteca padrão, que pode ser utilizada em 
 
 A motivação para a escolha desta linguagem é a curva de aprendizado acessivel para o tempo necessário de desenvolvimento da tarefa, e também conta com uma comunidade muita ativa, e atenciosa quanto à auxiliar com questões quanto à linguagem em si, ou as diversas bibliotecas que existe. Outro ponto importante para esta escolha é a tendencia de uso de Python para o desenvolvimento de aplicações voltada à Inteligencia Artificial como mostra a tabela (xxxxxx).
 A utilização de Python para está área está ligada com número de bibliotecas disponíveis para tal proposito, abaixo estão listadas algumas delas.
+
+TensorFlow
+PyTorch
+Keras
+scikit-learn
+
