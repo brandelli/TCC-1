@@ -52,6 +52,7 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 * Artigo [Adversarial Training for Relation Extraction](https://www.aclweb.org/anthology/D17-1187)
 * Artigo [A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction](https://aclweb.org/anthology/D17-1189)
 * Artigo [Relation Extraction : A Survey](https://arxiv.org/pdf/1712.05191.pdf)
+* Medium [Why I Think Python is Perfect for Machine Learning and Artificial Intelligence](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
 
 * Github [OpenNRE](https://github.com/thunlp/OpenNRE)
 * Github [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
