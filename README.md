@@ -55,6 +55,9 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 * Medium [Why I Think Python is Perfect for Machine Learning and Artificial Intelligence](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
 * Medium [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
 * Artigo [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Site [NLP-progress](http://nlpprogress.com/english/relationship_extraction.html)
+* Artigo [SemEval-2010 Task 8: Multi-Way Classification
+of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/anthology/S10-1006)
 
 ## Fontes
 * Link [Python Doc](https://docs.python.org/3/faq/general.html#what-is-python)
