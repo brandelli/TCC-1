@@ -58,6 +58,7 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 * Site [NLP-progress](http://nlpprogress.com/english/relationship_extraction.html)
 * Artigo [SemEval-2010 Task 8: Multi-Way Classification
 of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/anthology/S10-1006)
+* Github [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 
 ## Fontes
 * Link [Python Doc](https://docs.python.org/3/faq/general.html#what-is-python)
