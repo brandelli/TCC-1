@@ -65,6 +65,7 @@ of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/antholog
 * Livro [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X/ref=dp_ob_image_bk)
 * Github [OpenNRE](https://github.com/thunlp/OpenNRE)
 * Github [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+* Livro [Referencia para RNN](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
