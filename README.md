@@ -5,7 +5,7 @@ Repositorio para material do TCC-1
 * Link [Overleaf](https://www.overleaf.com/read/xymdzscpsrms)
 
 ## Documento final TCC
-* Link [Overleaf](https://pt.overleaf.com/project/5d0bb70de0ce6177f9118053)
+* Link [Overleaf](https://pt.overleaf.com/read/gnjjpzcsspyw)
 
 ## Trabalhos Relacionados e Materiais Relevantes 
 * Livro [Speech and Language Processing ](https://web.stanford.edu/~jurafsky/slp3/17.pdf)
@@ -53,12 +53,20 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 * Artigo [A Soft-label Method for Noise-tolerant Distantly Supervised Relation Extraction](https://aclweb.org/anthology/D17-1189)
 * Artigo [Relation Extraction : A Survey](https://arxiv.org/pdf/1712.05191.pdf)
 * Medium [Why I Think Python is Perfect for Machine Learning and Artificial Intelligence](https://towardsdatascience.com/8-reasons-why-python-is-good-for-artificial-intelligence-and-machine-learning-4a23f6bed2e6)
+* Medium [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
+* Artigo [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* Site [NLP-progress](http://nlpprogress.com/english/relationship_extraction.html)
+* Artigo [SemEval-2010 Task 8: Multi-Way Classification
+of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/anthology/S10-1006)
+* Github [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
+* [Kaggle](https://www.kaggle.com/)
 
 ## Fontes
 * Link [Python Doc](https://docs.python.org/3/faq/general.html#what-is-python)
 * Livro [Python in a Nutshell](https://www.amazon.com/Python-Nutshell-Desktop-Quick-Reference/dp/144939292X/ref=dp_ob_image_bk)
 * Github [OpenNRE](https://github.com/thunlp/OpenNRE)
 * Github [Awesome Relation Extraction](https://github.com/roomylee/awesome-relation-extraction)
+* Livro [Referencia para RNN](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
