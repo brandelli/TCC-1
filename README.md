@@ -69,6 +69,7 @@ of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/antholog
 * Livro [Referencia para RNN](http://www.dkriesel.com/_media/science/neuronalenetze-en-zeta2-2col-dkrieselcom.pdf)
 * Paper [Long Short-Term Memory
 in Recurrent Neural Networks](http://www.felixgers.de/papers/phd.pdf)
+* Paper [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
