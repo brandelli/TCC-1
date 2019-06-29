@@ -70,6 +70,7 @@ of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/antholog
 * Paper [Long Short-Term Memory
 in Recurrent Neural Networks](http://www.felixgers.de/papers/phd.pdf)
 * Paper [LONG SHORT-TERM MEMORY](https://www.bioinf.jku.at/publications/older/2604.pdf)
+* Livro [Referncia para CNN](https://www.deeplearningbook.org/contents/convnets.html)
 
 ## Materiais Úteis
 * [Overleaf](https://v2.overleaf.com/)
