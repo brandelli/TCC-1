@@ -60,6 +60,7 @@ Language-Independent Named Entity Recognition](https://arxiv.org/pdf/cs/0306050.
 of Semantic Relations Between Pairs of Nominals](https://www.aclweb.org/anthology/S10-1006)
 * Github [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md)
 * [Kaggle](https://www.kaggle.com/)
+* Curso [Fast.ai](https://www.fast.ai/)
 
 ## Fontes
 * Link [Python Doc](https://docs.python.org/3/faq/general.html#what-is-python)
